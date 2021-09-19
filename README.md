@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shreya Prasad <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hey, I'm Saurav Chaudhary <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Changing the world one pixel at a time!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
@@ -6,8 +6,8 @@
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
-<a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/-shreya-prasad/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Shreya, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India. My preferred pronouns are **she/her**.
+<a href="https://twitter.com/sauravstwt" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saurav-chaudhary-7ba682177/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+👩‍🎓 Hey! I'm Saurav, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India. My preferred pronouns are **she/her**.
 
 :octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert/ShreyaPrasad1209/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
 
