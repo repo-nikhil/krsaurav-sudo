@@ -13,12 +13,12 @@
 
 💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
 
-👩‍💻 Nowadays, I’m learning Kotlin, Swift, Next.js and System Design.  
+👩‍💻 Nowadays, I’m learning Devops and preparing for Certified Kubernetes Administrator & Certified Kubernetes Application Developer.  
 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
-💸 You can support my OSS work by [buying me a beer 🍺](https://www.buymeacoffee.com/shreyacasmalert)
+💸 You can support my OSS work by [buying me a beer 🍺](https://www.buymeacoffee.com/sauravchaudhary?new=1)
 
 
 <br> 
