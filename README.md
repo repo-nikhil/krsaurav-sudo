@@ -5,14 +5,18 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/sauravstwt" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saurav-chaudhary-7ba682177/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Saurav, a Passionate Engineer With Core Fundamentals Knowledge of Computer Science subjects skilled in Infrastructure & System Engineering.
+👩‍🎓 Hey! I'm Saurav, A Passionate Engineer With Core Fundamentals Knowledge of Computer Science subjects skilled in DevOps & Cloud Mindset along with Site Reliability Engineering principles & pratices. 
 
 :octocat: I have a soft spot for technology and communities 💖 :octocat:! 
  
 
-👩‍💻 Nowadays, I’m Exploring Site Reliability Engineering.
+👩‍💻 Nowadays, I’m Exploring Site Reliability Engineering & Chaos Engineering.
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
+
+:octocat: I Blog to Think[Medium](https://sauravstwt.medium.com/) :octocat:! 
+
+🛹 I love to help folks in communities by creating content around [Tech](https://www.youtube.com/watch?v=b0_eW8yz72Y)
 
 💸 You can support my OSS work by [buying me a beer 🍺](https://www.buymeacoffee.com/sauravchaudhary?new=1)
 
