@@ -5,7 +5,10 @@
    
    ## :wave: About Me 
      
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsaurav-sudo&label=PROFILE+VIEWS" alt="Saurav Chaudhary" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsaurav-sudo&label=Welcome-Count" alt="Saurav Chaudhary" /> </p>
+
+<a  href="https://https://sauravchaudhary.tez.page//"><img src="https://img.shields.io/badge/sauravchaudhary.tez-161B22.svg?&style=for-the-badge&logo=safari&logoColor=black"></a>
+<a href="mailto: saurabhkr5476@gmail.com"><img src="https://img.shields.io/badge/-saurabhkr5476%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=blue" ></a> <a href="https://sauravstwt.medium.com/"><img src="https://img.shields.io/badge/saurav-link-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/krsaurav-sudo"><img src="https://img.shields.io/badge/saurav-white.svg?&style=for-the-badge&logo=github&logoColor=green" ></a> <a href="https://gitlab.com/SAURABH_KUMAR"><img src="https://img.shields.io/badge/SAURABH_KUMAR-blue.svg?&style=for-the-badge&logo=twitter&logoColor=grey" ></a> 
    
 <a href="https://twitter.com/sauravstwt" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saurav-chaudhary-7ba682177/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Linkedin" align="right"></a> </a>
 👩‍🎓 Hey! I'm Saurav, a Passionate Engineer With Core Fundamentals Knowledge of Computer Science subjects skilled in DevOps & Cloud Mindset along with Site Reliability Engineering principles & pratices. 
