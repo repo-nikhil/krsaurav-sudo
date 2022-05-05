@@ -58,5 +58,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=aws)
 
 <br/>
-   ![Skyline](https://skyline.github.com/krsaurav-sudo/2021)
+ ![Skyline](https://skyline.github.com/krsaurav-sudo/2021)
+   <br/>
 
