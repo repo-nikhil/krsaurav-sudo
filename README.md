@@ -61,9 +61,9 @@
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript)
 <br/>
-⚙️ ![Administration](https://img.shields.io/badge/-Admin-black?style=flat-square&logo=admin)
-![Linux admin](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=Linux)
-![Server Admin](https://img.shields.io/badge/-Server-blue?style=flat-square&logo=server)
+⚙️ ![Administration](https://img.shields.io/badge/-Administration-black?style=flat-square&logo=admin)
+![Linux admin](https://img.shields.io/badge/-Linux_Administration-grey?style=flat-square&logo=Linux)
+![Server Admin](https://img.shields.io/badge/-Server_Administration-blue?style=flat-square&logo=server)
 ![Networking](https://img.shields.io/badge/-Networking-red?style=flat-square&logo=network)
 <br/>
 🛢![Library](https://img.shields.io/badge/-Library-black?style=flat-square&logo=library)
@@ -74,4 +74,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-green?style=flat-square&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-yellow?style=flat-square&logo=jenkins)
+![Helm](https://img.shields.io/badge/-Helm-orange?style=flat-square&logo=helm)
+<br/>
+⚡![Versioning_Tools](https://img.shields.io/badge/-Versioning_Tools-black?style=flat-square&logo=version)
+![Github](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-blue?style=flat-square&logo=gitlab)
+![CodeCommit](https://img.shields.io/badge/-CodeCommit-red?style=flat-square&logo=codecommit)
+<br/>
+⚡![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat-square&logo=cloud)
+![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=AWS)
 
