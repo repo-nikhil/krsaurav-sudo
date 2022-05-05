@@ -4,6 +4,9 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
    
    ## :wave: About Me 
+     
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsaurav-sudo&label=PROFILE+VIEWS" alt="Saurav Chaudhary" /> </p>
+   
 <a href="https://twitter.com/sauravstwt" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saurav-chaudhary-7ba682177/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Linkedin" align="right"></a> </a>
 👩‍🎓 Hey! I'm Saurav, a Passionate Engineer With Core Fundamentals Knowledge of Computer Science subjects skilled in DevOps & Cloud Mindset along with Site Reliability Engineering principles & pratices. 
 
