@@ -2,19 +2,15 @@
 <h2 align="center">Changing the world one pixel at a time!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
-
-   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
 <a href="https://twitter.com/sauravstwt" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saurav-chaudhary-7ba682177/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Saurav, a 22 year old software engineer at [**Intuit**](https://github.com/intuit) working out of New Delhi, India. My preferred pronouns are **she/her**.
+👩‍🎓 Hey! I'm Saurav, a Passionate Engineer With Core Fundamentals Knowledge of Computer Science subjects skilled in Infrastructure & System Engineering.
 
-:octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert/ShreyaPrasad1209/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
+:octocat: I have a soft spot for technology and communities 💖 :octocat:! 
+ 
 
-💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
-
-👩‍💻 Nowadays, I’m learning Devops and preparing for Certified Kubernetes Administrator & Certified Kubernetes Application Developer.  
-
+👩‍💻 Nowadays, I’m Exploring Site Reliability Engineering.
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
@@ -49,11 +45,4 @@
 
 <br/>
 
-  [![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ShreyaPrasad1209&theme=xcode)](https://git.io/ShreyaPrasad1209)
-   <br />
-   <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShreyaPrasad1209&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-   <br />
-   <br />
-   ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg)
 
