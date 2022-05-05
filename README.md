@@ -29,7 +29,7 @@
 - 🌐 &nbsp;
   ![HTML5]
   ![CSS]
-  ![JavaScript]
+  ![JavaScript] (https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
   ![Bootstrap]
   ![Node.js]
   ![React.js]
