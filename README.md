@@ -19,38 +19,6 @@
 
 <br> 
 
-## 🛠 &nbsp;Tech Stack
-
-- Languages 💻 &nbsp;
-  C, Java, Python
- - System⚙️  &nbsp;
-   => Linux, Windows
-   (https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-- 🌐 &nbsp;
-  ![HTML5]
-  ![CSS]
-  ![JavaScript] (https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-  ![Bootstrap]
-  ![Node.js]
-  ![React.js]
-- 🛢 &nbsp;
-  ![Linux Administration]
-  ![Networking]
-  ![Server Administration]
-- ⚙️ &nbsp;
-  ![Docker]
-  ![Kubernetes]
-  ![Ansible]
-  ![Terraform]
-  ![Jenkins]
-  ![Helm]
-  ![AWS]
-- 🔧 &nbsp;
-  ![Github]
-  ![CodeCommit]
-  ![Gitlab]
-<br/>
-
 ## 🛠 Technologies
 💻 ![OS](https://img.shields.io/badge/-Operating_System-black?style=flat-square&logo=operatingsystem)
 ![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)
@@ -84,5 +52,5 @@
 ![CodeCommit](https://img.shields.io/badge/-CodeCommit-red?style=flat-square&logo=codecommit)
 <br/>
 🌐![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat-square&logo=cloud)
-![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=aws cloud)
+![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=aws)
 
