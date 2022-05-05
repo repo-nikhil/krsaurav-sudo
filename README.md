@@ -52,9 +52,10 @@
 <br/>
 
 ## ⚡ Technologies
-
+💻![OS](https://img.shields.io/badge/-OperatingSystem-blue?style=flat-square&logo=operatingsystem)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=windows)
+![Windows](https://img.shields.io/badge/-Windows-red?style=flat-square&logo=windows)
+<br/>
 ![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
