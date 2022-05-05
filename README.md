@@ -21,13 +21,13 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-- 💻 &nbsp;
+- 💻(Languages) &nbsp;
   ![C]
   ![Python]
   ![Java]
- - 💻 &nbsp;
-  ![Linux]
-  ![Windows]
+ - ⚙️ (System) &nbsp;
+  [Linux]
+  [Windows]
 - 🌐 &nbsp;
   ![HTML5]
   ![CSS]
