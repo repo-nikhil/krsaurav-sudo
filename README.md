@@ -21,10 +21,10 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-- 💻(Languages) &nbsp;
-  ![C]
-  ![Python]
-  ![Java]
+- (Languages) 💻 &nbsp;
+  =>[C]
+  [Python]
+  [Java]
  - ⚙️ (System) &nbsp;
   [Linux]
   [Windows]
