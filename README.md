@@ -52,19 +52,26 @@
 <br/>
 
 ## ⚡ Technologies
-💻 ![OS](https://img.shields.io/badge/-Operating_System-grey?style=flat-square&logo=operatingsystem)
-![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-red?style=flat-square&logo=windows)
+💻 ![OS](https://img.shields.io/badge/-Operating_System-black?style=flat-square&logo=operatingsystem)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
 <br/>
-🔧 ![Languages](https://img.shields.io/badge/-Languages-grey?style=flat-square&logo=Languages)
-![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-green?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+🔧 ![Languages](https://img.shields.io/badge/-Languages-black?style=flat-square&logo=Languages)
+![C](https://img.shields.io/badge/-C-grey?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=javascript)
 <br/>
-![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+⚙️ ![Administration](https://img.shields.io/badge/-Admin-black?style=flat-square&logo=admin)
+![Linux admin](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=Linux)
+![Server Admin](https://img.shields.io/badge/-Server-blue?style=flat-square&logo=server)
+![Networking](https://img.shields.io/badge/-Networking-red?style=flat-square&logo=network)
+<br/>
+🛢![Library](https://img.shields.io/badge/-Library-black?style=flat-square&logo=library)
+ ![Node.js](https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js)
+ ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+ <br/>
+⚡![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=devops)
+![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
+![Ansible](https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible)
+
