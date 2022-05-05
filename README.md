@@ -70,7 +70,7 @@
  ![Node.js](https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js)
  ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
  <br/>
-⚡![DevOps](https://img.shields.io/badge/-DevOps-Tools-black?style=flat-square&logo=devops)
+⚡![DevOps](https://img.shields.io/badge/-DevOps_Tools-black?style=flat-square&logo=devops)
 ![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible)
