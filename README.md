@@ -53,8 +53,8 @@
 
 ## ⚡ Technologies
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=dart)
+![Linux](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=windows)
 ![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
