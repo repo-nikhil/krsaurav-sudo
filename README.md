@@ -52,12 +52,12 @@
 <br/>
 
 ## ⚡ Technologies
-💻 ![OS](https://img.shields.io/badge/-Operating_System-red?style=flat-square&logo=operatingsystem)
+💻 ![OS](https://img.shields.io/badge/-Operating_System-grey?style=flat-square&logo=operatingsystem)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-red?style=flat-square&logo=windows)
 <br/>
-🎈 ![Languages](https://img.shields.io/badge/-Languages-red?style=flat-square&logo=Languages)
-![C](https://img.shields.io/badge/-C programming-E34A86?style=flat-square&logo=c programming)
+🔧 ![Languages](https://img.shields.io/badge/-Languages-grey?style=flat-square&logo=Languages)
+![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-green?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <br/>
