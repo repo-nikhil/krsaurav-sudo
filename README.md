@@ -51,7 +51,7 @@
   ![Gitlab]
 <br/>
 
-## ⚡ Technologies
+## 🛠 Technologies
 💻 ![OS](https://img.shields.io/badge/-Operating_System-black?style=flat-square&logo=operatingsystem)
 ![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
@@ -70,7 +70,7 @@
  ![Node.js](https://img.shields.io/badge/-Node.js-grey?style=flat&logo=node.js)
  ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
  <br/>
-⚡![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=devops)
+⚡![DevOps](https://img.shields.io/badge/-DevOps-Tools-black?style=flat-square&logo=devops)
 ![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-red?style=flat-square&logo=ansible)
