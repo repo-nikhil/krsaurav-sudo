@@ -51,4 +51,17 @@
   ![Gitlab]
 <br/>
 
+## ⚡ Technologies
 
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=dart)
+![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
