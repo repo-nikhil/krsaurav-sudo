@@ -52,13 +52,15 @@
 <br/>
 
 ## ⚡ Technologies
-💻![OS](https://img.shields.io/badge/-OperatingSystem-blue?style=flat-square&logo=operatingsystem)
+💻 ![OS](https://img.shields.io/badge/-Operating_System-red?style=flat-square&logo=operatingsystem)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-red?style=flat-square&logo=windows)
 <br/>
-![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
-![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
+🎈 ![Languages](https://img.shields.io/badge/-Languages-red?style=flat-square&logo=Languages)
+![C](https://img.shields.io/badge/-C programming-E34A86?style=flat-square&logo=c programming)
+![Java](https://img.shields.io/badge/-Java-green?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<br/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
