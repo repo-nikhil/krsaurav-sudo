@@ -78,11 +78,11 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-yellow?style=flat-square&logo=jenkins)
 ![Helm](https://img.shields.io/badge/-Helm-orange?style=flat-square&logo=helm)
 <br/>
-⚡![Versioning_Tools](https://img.shields.io/badge/-Versioning_Tools-black?style=flat-square&logo=version)
+⚙️![Versioning_Tools](https://img.shields.io/badge/-Versioning_Tools-black?style=flat-square&logo=version)
 ![Github](https://img.shields.io/badge/-Github-grey?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-blue?style=flat-square&logo=gitlab)
 ![CodeCommit](https://img.shields.io/badge/-CodeCommit-red?style=flat-square&logo=codecommit)
 <br/>
-⚡![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat-square&logo=cloud)
-![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=AWS)
+🌐![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat-square&logo=cloud)
+![AWS](https://img.shields.io/badge/-AWS-grey?style=flat-square&logo=aws cloud)
 
