@@ -22,7 +22,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 - Languages 💻 &nbsp;
-  => C, Java, Python
+  C, Java, Python
  - System⚙️  &nbsp;
    => Linux, Windows
 - 🌐 &nbsp;
