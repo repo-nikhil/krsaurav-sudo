@@ -25,6 +25,7 @@
   C, Java, Python
  - System⚙️  &nbsp;
    => Linux, Windows
+   (https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 - 🌐 &nbsp;
   ![HTML5]
   ![CSS]
