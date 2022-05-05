@@ -21,11 +21,13 @@
 
 
 <br> 
+![Skyline](https://skyline.github.com/krsaurav-sudo/2021)
 
 ## 🛠 Technologies
 💻 ![OS](https://img.shields.io/badge/-Operating_System-black?style=flat-square&logo=operatingsystem)
 ![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
+![Skyline](https://skyline.github.com/krsaurav-sudo/2021)
 <br/>
 🔧 ![Languages](https://img.shields.io/badge/-Languages-black?style=flat-square&logo=Languages)
 ![C](https://img.shields.io/badge/-C-grey?style=flat-square&logo=c)
