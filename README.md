@@ -11,7 +11,7 @@
 <a href="mailto: saurabhkr5476@gmail.com"><img src="https://img.shields.io/badge/-saurabhkr5476%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=blue" ></a> <a href="https://sauravstwt.medium.com/"><img src="https://img.shields.io/badge/saurav-link-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white" ></a> <a href="https://github.com/krsaurav-sudo"><img src="https://img.shields.io/badge/saurav-white.svg?&style=for-the-badge&logo=github&logoColor=green" ></a> <a href="https://gitlab.com/SAURABH_KUMAR"><img src="https://img.shields.io/badge/SAURABH_KUMAR-blue.svg?&style=for-the-badge&logo=gitlab&logoColor=grey" ></a> 
    
 <a href="https://twitter.com/sauravstwt" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/saurav-chaudhary-7ba682177/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Linkedin" align="right"></a> </a>
-👩‍🎓 Hey! I'm Saurav, a Passionate Engineer With Core Fundamentals Knowledge of Computer Science subjects skilled in DevOps & Cloud Mindset along with Site Reliability Engineering principles & pratices. 
+👩‍🎓 Hey! I'm Saurav, a Passionate Engineer With Core Fundamentals Knowledge of Computer Science subjects skilled in DevOps & Cloud Mindset along with Site Reliability Engineering principles & practices. 
 
 :octocat: I have a soft spot for technology and communities 💖 :octocat:! 
  
